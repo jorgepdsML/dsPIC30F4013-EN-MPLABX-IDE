@@ -32,3 +32,4 @@ DSPIC30F4013          HC SR04
 
 RF0                  Echo
 RF1                  Trig
+ 
