@@ -19,10 +19,10 @@ En el archivo main.c se encuentra el archivo de codigo fuente principal donde es
 
 
 Para mas detalles ir al siguiente link donde se realiza la explicacion del uso de timer 1 y el ultrasonido con el dsPIC30F4013.
-part1:
+ parte1:
 https://www.youtube.com/watch?v=Fxhftv6uW3E&list=PLOYWpTa8jSmuM8tJ8CTfDjgs4jQ4T7MET&index=2 .
 
-parte2:
+ parte2:
 https://www.youtube.com/watch?v=cX6tq58z3tc&list=PLOYWpTa8jSmuM8tJ8CTfDjgs4jQ4T7MET&index=3 .
  
 
